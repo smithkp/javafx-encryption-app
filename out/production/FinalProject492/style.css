@@ -1,0 +1,22 @@
+.root{
+    -fx-background-color: #35c6ac;
+}
+
+.title{
+    -fx-font-size: 48px;
+    -fx-text-align: center;
+    -fx-font-family: chewy;
+}
+
+.h1{
+    -fx-font-size: 48px;
+    -fx-font-family: chewy;
+}
+
+.encrypt-btn{
+    -fx-width: 140px;
+}
+
+.decrypt-btn{
+    -fx-width: 140px;
+}
